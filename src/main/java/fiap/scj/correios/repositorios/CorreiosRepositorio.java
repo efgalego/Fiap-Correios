@@ -9,7 +9,7 @@ import javax.inject.Named;
 import fiap.scj.correios.to.DocumentoTO;
 
 /**
- * Classe respons√°vel por armazenar os documento postados.
+ * Classe respons·vel por armazenar os documento postados.
  * 
  * @author Eduardo Galego
  */

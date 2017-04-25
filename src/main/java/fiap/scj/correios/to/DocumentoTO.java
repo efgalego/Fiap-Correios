@@ -2,6 +2,11 @@ package fiap.scj.correios.to;
 
 import java.util.Date;
 
+/**
+ * Objeto de transferência que representa um documento para envio pelo Correios.
+ * @author Eduardo Galego
+ *
+ */
 public class DocumentoTO {
 
 	private Integer codigoRastreio;
